@@ -1,0 +1,269 @@
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/appsettings.Development.json
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/appsettings.json
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/TodoCalendar.staticwebassets.runtime.json
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/TodoCalendar
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/TodoCalendar.deps.json
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/TodoCalendar.runtimeconfig.json
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/TodoCalendar.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/TodoCalendar.pdb
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/Humanizer.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/System.CodeDom.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/TodoCalendar.csproj.AssemblyReference.cache
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/TodoCalendar.GeneratedMSBuildEditorConfig.editorconfig
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/TodoCalendar.AssemblyInfoInputs.cache
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/TodoCalendar.AssemblyInfo.cs
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/TodoCalendar.csproj.CoreCompileInputs.cache
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/TodoCalendar.MvcApplicationPartsAssemblyInfo.cache
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/TodoCalendar.RazorAssemblyInfo.cache
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/TodoCalendar.RazorAssemblyInfo.cs
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/staticwebassets.build.json
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/staticwebassets.development.json
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/staticwebassets/msbuild.TodoCalendar.Microsoft.AspNetCore.StaticWebAssets.props
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/staticwebassets/msbuild.build.TodoCalendar.props
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.TodoCalendar.props
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.TodoCalendar.props
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/staticwebassets.pack.json
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/scopedcss/bundle/TodoCalendar.styles.css
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/scopedcss/projectbundle/TodoCalendar.bundle.scp.css
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/TodoCalendar.csproj.CopyComplete
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/TodoCalendar.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/refint/TodoCalendar.dll
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/TodoCalendar.pdb
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/TodoCalendar.genruntimeconfig.cache
+/home/george/Programming/C#Projects/DemoWebApp/TodoCalendar/obj/Debug/net8.0/ref/TodoCalendar.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\appsettings.Development.json
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\appsettings.json
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\TodoCalendar.staticwebassets.runtime.json
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\TodoCalendar.staticwebassets.endpoints.json
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\TodoCalendar.exe
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\TodoCalendar.deps.json
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\TodoCalendar.runtimeconfig.json
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\TodoCalendar.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\TodoCalendar.pdb
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\Humanizer.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\System.CodeDom.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\TodoCalendar.csproj.AssemblyReference.cache
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\TodoCalendar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\TodoCalendar.AssemblyInfoInputs.cache
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\TodoCalendar.AssemblyInfo.cs
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\TodoCalendar.csproj.CoreCompileInputs.cache
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\TodoCalendar.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\TodoCalendar.RazorAssemblyInfo.cache
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\TodoCalendar.RazorAssemblyInfo.cs
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\scopedcss\bundle\TodoCalendar.styles.css
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\scopedcss\projectbundle\TodoCalendar.bundle.scp.css
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\staticwebassets.build.json
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\staticwebassets.development.json
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\swae.build.ex.cache
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\TodoCale.E37C1BB1.Up2Date
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\TodoCalendar.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\refint\TodoCalendar.dll
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\TodoCalendar.pdb
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\TodoCalendar.genruntimeconfig.cache
+D:\Programming Projects\ToDoApp\TodoCalendar\obj\Debug\net8.0\ref\TodoCalendar.dll
