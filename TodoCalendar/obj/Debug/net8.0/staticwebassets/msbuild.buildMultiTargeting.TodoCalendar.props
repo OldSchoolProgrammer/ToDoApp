@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/TodoCalendar.props" />
-</Project>
